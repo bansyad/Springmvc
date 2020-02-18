@@ -1,0 +1,17 @@
+
+
+<web-app>
+	<display-name>Archetype Created Web Application</display-name>
+
+
+	<servelet>yadav</servelet>
+	<servelet-class> org.springframework.web.servelet.DispatcherServelet
+	</servelet-class>
+
+	<servlet-mapping>
+
+		<servlet-name>yadav</servlet-name>
+		<url-pattern>/</url-pattern>
+
+	</servlet-mapping>
+</web-app>
